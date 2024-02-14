@@ -1,8 +1,8 @@
 ---
-title: The League of Robot Runners The 2024 Virtual Event
+title: The League of Robot Runners Call 2023
 description: The League of Robot Runners The 2024 Virtual Event
 published: true
-date: 2024-02-14T23:53:53.829Z
+date: 2024-02-14T23:54:27.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T04:18:05.601Z
