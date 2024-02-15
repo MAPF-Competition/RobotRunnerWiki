@@ -2,7 +2,7 @@
 title: League of Robot Runners: 1st Workshop
 description: League of Robot Runners
 published: true
-date: 2024-02-15T16:03:24.414Z
+date: 2024-02-15T16:03:36.320Z
 tags: post
 editor: markdown
 dateCreated: 2024-02-09T02:56:05.868Z
