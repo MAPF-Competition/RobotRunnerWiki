@@ -1,8 +1,8 @@
 ---
-title: League of Robot Runners: 1st Workshop
+title: League of Robot Runners: 1st Virtual Workshop
 description: League of Robot Runners
 published: true
-date: 2024-02-15T16:07:03.034Z
+date: 2024-02-15T16:08:13.573Z
 tags: post
 editor: markdown
 dateCreated: 2024-02-09T02:56:05.868Z
