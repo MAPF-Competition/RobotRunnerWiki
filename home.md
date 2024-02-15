@@ -2,7 +2,7 @@
 title: League of Robot Runners: 1st WorkShop
 description: League of Robot Runners
 published: true
-date: 2024-02-15T15:58:46.809Z
+date: 2024-02-15T16:00:15.700Z
 tags: post
 editor: markdown
 dateCreated: 2024-02-09T02:56:05.868Z
