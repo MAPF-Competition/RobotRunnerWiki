@@ -2,7 +2,7 @@
 title: League of Robot Runners: 1st Workshop
 description: League of Robot Runners
 published: true
-date: 2024-02-15T16:02:38.861Z
+date: 2024-02-15T16:03:24.414Z
 tags: post
 editor: markdown
 dateCreated: 2024-02-09T02:56:05.868Z
@@ -30,5 +30,5 @@ We invite participants to submit a paper about their method and experience in th
 
 * Results Announcement: 20th November December (extended!)
 
-# Organizers
+# [Organizers](/Organizers)
 ![organiser.png](/images/organiser.png)
