@@ -2,7 +2,7 @@
 title: League of Robot Runners: 1st Workshop
 description: League of Robot Runners
 published: true
-date: 2024-02-15T16:05:07.706Z
+date: 2024-02-15T16:05:40.401Z
 tags: post
 editor: markdown
 dateCreated: 2024-02-09T02:56:05.868Z
@@ -22,13 +22,6 @@ The League of Robot Runners, sponsored by Amazon Robotics, is a competition wher
 
 # Speakers
 
-# Important Dates
-
-* Warm up Round: 13th July - 18th August
-
-* Main Round: 19th August - 31st October 30th November (extended!)
-
-* Results Announcement: 20th November December (extended!)
-
+# [Schedule](/schedule)
 # [Organizers](/Organizers)
 
