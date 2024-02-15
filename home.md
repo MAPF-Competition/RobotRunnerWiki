@@ -2,7 +2,7 @@
 title: League of Robot Runners: 1st Workshop
 description: League of Robot Runners
 published: true
-date: 2024-02-15T16:03:36.320Z
+date: 2024-02-15T16:04:30.124Z
 tags: post
 editor: markdown
 dateCreated: 2024-02-09T02:56:05.868Z
@@ -15,8 +15,8 @@ The League of Robot Runners, sponsored by Amazon Robotics, is a competition wher
 ![warehouse-demo_landing2.gif](/images/warehouse-demo_landing2.gif)
 
 
-# Call for Papers
-We invite participants to submit a paper about their method and experience in the competition. Details can be found in  [Call for participation, the 1st League of Robot Runners workshop](/Posts/virtual_events_2024)
+# [Call for Papers](/Posts/virtual_events_2024)
+
 
 # Accepted Papers
 
